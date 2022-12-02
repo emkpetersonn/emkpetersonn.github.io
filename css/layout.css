@@ -1,0 +1,17 @@
+.heading{
+    text-align: center;
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 3;
+    padding-bottom: 50px;
+}
+.borderb {
+    border-bottom: solid 1px aliceblue;
+    padding-bottom: 10px;
+}
+.bordert {
+    border-top: solid 1px aliceblue;
+    padding-top: 10px;
+}
